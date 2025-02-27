@@ -1,0 +1,21 @@
+
+body {
+  background-color:#00ff0080;
+  #p1 {background-color:#ff000080;}
+  #p1a {background-color:#ff00ff80;}
+  #p2 {background-color:#ffff0080;}
+}
+h1 {
+  text-align: center;
+}
+p.uppercase {
+  text-transform: uppercase;
+}
+
+p.lowercase {
+  text-transform: lowercase;
+}
+
+p.capitalize {
+  text-transform: capitalize;
+}
